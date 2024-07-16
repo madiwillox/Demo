@@ -1,3 +1,6 @@
-$ Title
+# Title
 
 Content
+
+## new heading
+info
